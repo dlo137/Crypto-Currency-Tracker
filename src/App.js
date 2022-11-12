@@ -23,6 +23,7 @@ function App() {
     setSearch(e.target.value);
   };
 
+  //lets user filter through coins in search bar 
   const filteredCoins = coins.filter(coin =>
     coin.name.toLowerCase().includes(search.toLowerCase())
   );
@@ -39,7 +40,7 @@ function App() {
             placeholder='Search'
           />
         </form>
-      </div>
+      </div> 
       {filteredCoins.map(coin => {
         return (
           <Coin
