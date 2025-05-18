@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crypto-Currency-Tracker/static/css/main.0b3b73b0.css",
+    "main.js": "/Crypto-Currency-Tracker/static/js/main.3a47bf54.js",
+    "index.html": "/Crypto-Currency-Tracker/index.html",
+    "main.0b3b73b0.css.map": "/Crypto-Currency-Tracker/static/css/main.0b3b73b0.css.map",
+    "main.3a47bf54.js.map": "/Crypto-Currency-Tracker/static/js/main.3a47bf54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b3b73b0.css",
+    "static/js/main.3a47bf54.js"
+  ]
+}
